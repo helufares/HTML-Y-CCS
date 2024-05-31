@@ -1,0 +1,23 @@
+#Titulo {
+    color: tomato
+}
+
+p.especial {
+    color:blue
+}
+
+p.texto{
+    color:rgb(11, 187, 178)
+}
+
+div p {
+    color:blueviolet
+}
+div h2, div h3 {
+    color:brown
+}
+
+* {
+   font-size: 24px
+}
+
